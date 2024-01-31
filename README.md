@@ -33,10 +33,6 @@ You could also give it `-ql` instead as your iterating on an animation and want 
 
 `src/matchsticks.py` is the source file of your animation code
 
-
-https://github.com/graysoncroom/PDEAnimation/assets/22580034/e9674087-038c-42c2-9267-3f840e83eeca
-
-
 `PDEAnimation` is the class name of the manim class that describes the animation
 
 Note: Whether you pass manim the `-p` option or not, the rendered video will be
