@@ -42,3 +42,6 @@ will be created for you.
 If manim is complaining about libraries, check out the [Manim Documentation](https://docs.manim.community/en/stable/installation/linux.html)
 
 It's likely you'll need to install a few system-level libs (e.g. ffmpeg, libpango1, libcairo2, ...)
+
+Note: Manim renders math text using Tex. Make sure you have a full Tex distribution (e.g. livetex w/ extras)
+before trying to render these animations.
