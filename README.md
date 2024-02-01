@@ -1,6 +1,6 @@
 # PDE Animation
 
-https://github.com/graysoncroom/PDEAnimation/assets/22580034/85c2fe39-0a55-4d78-a0ca-055df4daa129
+https://github.com/graysoncroom/PDEAnimation/assets/22580034/48d8919f-011a-4acd-98ea-312e5810debe
 
 ## Getting Started
 
